@@ -5,8 +5,8 @@ Microsoft Power BI merupakan sebauh sofware business intellegence yang dapat dig
 
 # Prepare Of Power BI Desktop Lesson
 <ol>
-    <li>Link download aplikasi Microsoft Power BI Desktop <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494">Download disini</a></li>
-    <li>Link dokumentasi resmi Microsoft Power BI <a href="https://docs.microsoft.com/en-us/power-bi/fundamentals/">Lihat Dokumentasi</a> </li>
+    <li>Link download aplikasi Microsoft Power BI Desktop <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Download disini</a></li>
+    <li>Link dokumentasi resmi Microsoft Power BI <a href="https://docs.microsoft.com/en-us/power-bi/fundamentals/" target="_blank">Lihat Dokumentasi</a> </li>
 </ol>
 
 
